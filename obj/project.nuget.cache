@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y7bcBZFp52kEmiikicH2uFQRHkaG0JhxN48m0nFqhp5U6OncHYM9fhTe5vymTYBK8MY1o+aVzuRywHE7uYUt5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor Maqina Phoswa\\desktop\\Victor\\#3rdYear\\cs301\\Prac5\\prac5\\Prac5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor Maqina Phoswa\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
